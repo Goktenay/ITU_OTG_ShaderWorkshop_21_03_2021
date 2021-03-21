@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9aab7c1-ce3f-488a-8ad6-59f16b05b7c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexVsFragmentTextureSamplingDemoFolder/SimpleFragmentTextureSamplingShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/VertexToUVCoordinatesVertexColorShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/UnlitColShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NaughtyAttributes/Scripts/Editor/Utility/PropertyUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/ShowVertexData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/ProjectionDemoFolder/ProjectionDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/DirectionToUVCoordinatesDemoFolder/DirectionToUVCoordinatesShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/TangentSpaceExplanationDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexVsFragmentTextureSamplingDemoFolder/SimpleVertexTextureSamplingShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexToUVDemoFolder/VertexToUVCoordinatesShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/ExtrudeSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/31D5D65B-32EC-4832-92E1-3E8AE4100B93/bb/9e19aa83/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/MainScene/SimpleEpicIBLShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/MainScene/SimpleEpicShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/NormalVsPointVectorDemoFolder/NormalVsPointVectorDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/UnlitShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/DotProductDemoFolder/DotProductDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/MainScene/Maps/simple.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/ExtrudeVertexShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexShaderInterpolationDemoFolder/VertexShaderInterpolationDemoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RandomAsset/RawBlockUnlitShader.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Materials/Presets/NewUnlitShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Materials/Presets/Defaults/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/VertexToUVCoordinatesVertexColorShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/NewSurfaceShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/TransparentShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/VertexToUVCoordinatesShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TestSetup/TestShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TestSetup/TestScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TestSetup/ProjectionShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TestSetup/ProjectionDefaultShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TestSetup/ProjectionDemoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/DotProductDemoFolder/DotProductDemoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/NormalVsPointVectorDemoFolder/NormalVsPointVectorDemoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/FirstShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexShaderInterpolationDemoFolder/VertexShaderInterpolationDemoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/ExtrudeVertexShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexData/ShowVertexData.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexVsFragmentTextureSamplingDemoFolder/SimpleVertexTextureSamplingShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexVsFragmentTextureSamplingDemoFolder/SimpleFragmentTextureSamplingShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/SimpleShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/VertexToUVDemoFolder/VertexToUVCoordinatesShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/RandomAsset/RawBlockUnlitShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/UnlitUnpackedShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/DirectionToUVCoordinatesDemoFolder/DirectionToUVCoordinatesShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/UnlitColShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/UnlitShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/TangentSpaceExplanationDemoFolder/TangentSpaceExplanationDemoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/MainScene/SimpleEpicShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/_OTG/ExampleSetups/MainScene/SimpleEpicIBLShader.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pkFKLzybaP2riuEjE3sP9LabiW" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9aab7c1-ce3f-488a-8ad6-59f16b05b7c2" name="Default Changelist" comment="" />
+      <created>1615719118420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615719118420</updated>
+      <workItem from="1615719123722" duration="7095000" />
+      <workItem from="1615821652742" duration="2426000" />
+      <workItem from="1616015727915" duration="10701000" />
+      <workItem from="1616168066679" duration="15617000" />
+      <workItem from="1616243033437" duration="19411000" />
+      <workItem from="1616283874375" duration="18364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
